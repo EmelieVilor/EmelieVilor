@@ -1,4 +1,16 @@
-## Hi there 👋
+## ❓About Me: 
+<hr>
+
+💻 Currently studing Front end developing
+✏️ 
+💬
+
+
+
+## ✉️ Contact: 
+<hr>
+
+
 
 <!--
 **EmelieVilor/EmelieVilor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
