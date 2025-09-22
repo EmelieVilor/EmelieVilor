@@ -1,14 +1,16 @@
 ## ❓About Me: 
-<hr>
 
-💻 Currently studing Front end developing
-✏️ 
-💬
+💻 Currently studing Front-end development. <br>
+🌱 Learning JavaScript, TypeScript, React and more. <br>
+✏️ Previous master in Interaction Design. <br>
+💬 Open for job opportunities, collaborations, networking or just chit-chatting. <br>
+⚡️ Long experience working in the train industry. <br>
 
 
 
-## ✉️ Contact: 
-<hr>
+## ✉️ Contact Information: 
+
+
 
 
 
