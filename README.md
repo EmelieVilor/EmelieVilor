@@ -1,4 +1,4 @@
-## Hi there! I'm Emelie! 👋
+## 👋 Hi there! I'm Emelie! 👋
 
 💻 Currently studing Front-end development. <br>
 🌱 Learning JavaScript, TypeScript, React and more. <br>
