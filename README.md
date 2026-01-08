@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm Emelie! 👋
+## Hi there! I'm Emelie! 👋
 
 💻 Currently studing Front-end development. <br>
 🌱 Learning JavaScript, TypeScript, React and more. <br>
@@ -13,5 +13,5 @@
   </a>
 </p>
 
-## ✉️ Contact Me: 
+## Contact Me ✉️
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emelie-vilor)
