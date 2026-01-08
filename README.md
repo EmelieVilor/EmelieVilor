@@ -10,7 +10,7 @@ I am...
 ## Tech Skills: 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git, github, html, css, js, ts, sass, react, tailwind, bootstrap, nodejs, figma,  ai, ps, wordpress" />
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,ts,sass,react,tailwind,bootstrap,nodejs,figma,ai,ps,wordpress"/>
   </a>
 </p>
 
