@@ -1,5 +1,6 @@
-## ❓About Me: 
+## Hi there! I'm Emelie! 👋
 
+I am...
 💻 Currently studing Front-end development. <br>
 🌱 Learning JavaScript, TypeScript, React and more. <br>
 ✏️ Previous master in Interaction Design. <br>
