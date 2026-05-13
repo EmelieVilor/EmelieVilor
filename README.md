@@ -7,9 +7,10 @@
 💬 Open for job opportunities, collaborations, networking or just chit-chatting. <br>
 
 ## 💻 Tech Skills: 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,ts,sass,react,figma,ai,ps,wordpress"/>
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,ts"/>
+    <img src="https://skillicons.dev/icons?i=sass,react,figma,ai,ps,wordpress"/>
   </a>
 </p>
 
