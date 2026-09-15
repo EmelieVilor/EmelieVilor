@@ -1,7 +1,7 @@
 ## Hi there! I'm Emelie! 👋
 
 🚀 Currently studing Front-end development, graduating December 2026. <br>
-🌱 Learning JavaScript, TypeScript, React and more. <br>
+🌱 Learning JavaScript, TypeScript, React, NextJs and more. <br>
 ✏️ Previous master in Interaction Design. <br>
 ⚡️ Long experience working in the train industry. <br>
 💬 Open for job opportunities, collaborations, networking or just chit-chatting. <br>
